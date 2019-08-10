@@ -1,0 +1,11 @@
+name: Stats
+version: ${project.version}
+main: com.theworldsmp.stats.Stats
+api-version: 1.13
+authors: [Spacey]
+description: WorldSMP stats
+website: theworldsmp.com
+commands:
+  stats:
+    description: View player stats
+    aliases: [statistics, stat]
